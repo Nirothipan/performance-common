@@ -50,6 +50,7 @@
         <module>components/payload-generator</module>
         <module>components/netty-http-echo-service</module>
         <module>components/jtl-splitter</module>
+        <module>components/sse-server</module>
         <module>distribution</module>
     </modules>
 
